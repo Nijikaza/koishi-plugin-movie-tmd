@@ -50,9 +50,6 @@ export const usage = `
 <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=kW4Mvn1XZsfR_ghZfzdMK0-RlqvSlAFG&authKey=i%2ByfvnYw2qw9Y98RegxyacrannA8z9MEXQ9fICWZb%2FxCxN8atmjox399OWN%2BwR5%2F&noverify=0&group_code=778554862">
     <img src="https://image.newasp.com/attachment/article/2022/1204/093738_49079822.gif" alt="加入QQ群">
 </a>
-<a href="https://github.com/QYcblzj/koishi-plugin-cooke-tmd.git">
-    <img src="https://ts1.cn.mm.bing.net/th/id/R-C.01e4232cb97564ec027f3d2639198b50?rik=iHSptn%2bndh0WrA&riu=http%3a%2f%2fwww.guangyuanol.cn%2fuploads%2fallimg%2f221212%2f2121243350-21.gif&ehk=1m%2f5kjGYhtTGbYl64BciehpzgZfoMgyIFT16IsZIKXk%3d&risl=&pid=ImgRaw&r=0" alt="star">
-</a>
 `
 // 注册插件
 export const name = 'movie-tmd';
