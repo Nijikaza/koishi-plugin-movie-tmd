@@ -1,6 +1,6 @@
 {
   "name": "koishi-plugin-movie-tmd",
-  "description": "Use TheMovieDB API to search movies",
+  "description": "👓搜索影视（作者个人觉得没有什么用，不推荐使用",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -9,12 +9,18 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nijikaza/koishi-plugin-moive-tmd.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
-    "plugin"
+    "plugin",
+    "movie",
+    "TMDB"
   ],
+  "author": "Nijikaza <theband_nijika@outlook.com>",
   "peerDependencies": {
     "koishi": "^4.16.4"
   }
